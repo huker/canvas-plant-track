@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #010f4c;
+}
+
+.earth-box {
+    width: 50%;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 100px;
+}
+
+.earth {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.earthBottom {
+    z-index: -1;
+}
+
+.earthTop {
+    z-index: 2;
+}

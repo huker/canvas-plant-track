@@ -1,0 +1,24 @@
+{
+  "name": "canvas-plant-track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huker/canvas-plant-track.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huker/canvas-plant-track/issues"
+  },
+  "homepage": "https://github.com/huker/canvas-plant-track#readme"
+}
